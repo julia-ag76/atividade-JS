@@ -1,0 +1,4 @@
+O Prettier – Code Formatter é um formatador de código opinativo que suporta diversas linguagens, incluindo HTML e CSS, JavaScript, TypeScript.
+Ela garante que seu código seja automaticamente formatado de maneira consistente, melhorando a legibilidade e mantendo um padrão uniforme em todo o projeto. Ao aplicar regras de formatação padronizadas, o Prettier assegura que todo o código siga o mesmo estilo, independentemente de quem o escreveu.
+A integração perfeita com o VSCode permite uma configuração simples e uma experiência de desenvolvimento mais fluida.
+Ao incorporar o Prettier ao seu fluxo de trabalho no VSCode, você garante um código mais limpo, consistente e de fácil manutenção, facilitando a colaboração em equipe e a escalabilidade do projeto.
